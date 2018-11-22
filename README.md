@@ -1,6 +1,6 @@
 # Game Of Sticks
 Game of Sticks is a game where a set amount of sticks is on the table. Players take turns to remove 1 to 3 sticks at a time until the last stick is picked up. The player that picks up the last stick loses. 
-![](gameofsticks_demo.gif)
+<img align="center" width="100" height="100" src="gameofsticks_demo.gif">
 
 ## Machine Implementation
 While my teacher designed the framework for the game, the machine learning strategies in the AI class were implemented by me.
