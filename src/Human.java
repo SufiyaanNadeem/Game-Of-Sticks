@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  * This class takes input from the use to be use in the game of sticks.
- * @author S. Camilleri
+ * @author Mr. S. Camilleri
  * @author Sufiyaan Nadeem
  */
 public class Human {

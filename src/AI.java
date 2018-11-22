@@ -3,7 +3,7 @@ import java.util.Random;
 
 /**
  * This class stores, trains, and uses an AI to play the game of sticks.
- * @author S. Camilleri
+ * @author Mr. S. Camilleri
  * @author Sufiyaan Nadeem
  *
  */

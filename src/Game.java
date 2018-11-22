@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * This class coordinates the AI and Human classes to play the game of sticks.
- * @author S. Camilleri
+ * @author Mr. S. Camilleri
  * @author Sufiyaan Nadeem
  */
 public class Game {

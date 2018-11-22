@@ -1,7 +1,7 @@
 
 /**
  * This class starts the game.
- * @author S. Camilleri
+ * @author Mr. S. Camilleri
  * @author Sufiyaan Nadeem
  */
 public class Main {
